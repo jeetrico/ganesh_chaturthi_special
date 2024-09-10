@@ -1,4 +1,6 @@
 # ganesh_chaturthi_special
+![Screenshot 2024-09-08 170247](https://github.com/user-attachments/assets/d86fc7fe-2421-4dda-b0b7-75f227a9ca06)
+
 # Lord Ganesha Visual Turtle
 
 This repository contains a Python script that uses the Turtle graphics library to draw an intricate image of Lord Ganesha. The script creates a detailed and colorful representation of this revered deity, including features like the head, trunk, eyes, ears, and decorative elements.
