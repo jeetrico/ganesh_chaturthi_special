@@ -14,13 +14,13 @@ To run this script, you need to have Python installed on your system along with 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/jeetrico/Lord-Ganesh-Visual-Turtle.git
+    git clone https://github.com/jeetrico/ganesh_chaturthi_special.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Lord-Ganesh-Visual-Turtle
+    cd ganesh_chaturthi_special
     ```
 
 ## Usage
@@ -30,14 +30,14 @@ To run this script, you need to have Python installed on your system along with 
 2. Run the script using Python:
 
     ```bash
-    python Lord_Ganesha_Visual.py
+    python ganeshji.py
     ```
 
 3. A Turtle graphics window will open displaying the drawing of Lord Ganesha.
 
 ## File Description
 
-- `Lord_Ganesha_Visual.py`: The main Python script that generates the visual representation of Lord Ganesha using the Turtle graphics library.
+- `ganeshji.py`: The main Python script that generates the visual representation of Lord Ganesha using the Turtle graphics library.
 
 ## License
 
