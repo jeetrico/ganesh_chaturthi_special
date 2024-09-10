@@ -14,7 +14,7 @@ To run this script, you need to have Python installed on your system along with 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/YourUsername/Lord-Ganesh-Visual-Turtle.git
+    git clone https://github.com/jeetrico/Lord-Ganesh-Visual-Turtle.git
     ```
 
 2. Navigate to the project directory:
