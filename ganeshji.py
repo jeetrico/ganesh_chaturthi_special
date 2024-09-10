@@ -244,4 +244,3 @@ turtle.pendown()
 turtle.circle(90,65)
 turtle.penup()
 done()
-https://github.com/Honeyrn/Lord-Ganesh-Visual-Turtle-/blob/main/Lord%20Ganesha%20Visual.py
